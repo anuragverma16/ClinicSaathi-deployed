@@ -1,0 +1,29 @@
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+coverage/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+server/.env.save
+
+# Logs
+*.log
+
+# Storage
+storage/
+
+# Postman
+postman/
+Postman/
+postman_collection/
+.postman/
+
+# OS files
+.DS_Store
+Thumbs.db
